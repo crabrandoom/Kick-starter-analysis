@@ -11,7 +11,8 @@ The purpose of this analysis is to take a closer look at the individual characte
 
 ### Analysis of Outcomes Based on Launch Date
 
-!Theater_Outcomes_vs_Launch.png
+![Theater_Outcomes_vs_Launch.Png](https://github.com/crabrandoom/Kick-starter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
+
 
 ### Analysis of Outcomes Based on Goals
 
