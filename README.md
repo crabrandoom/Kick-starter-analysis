@@ -11,11 +11,11 @@ The purpose of this analysis is to take a closer look at the individual characte
 
 ### Analysis of Outcomes Based on Launch Date
 
-![image_name](path/to/image_name.png)
+!Theater_Outcomes_vs_Launch.png
 
 ### Analysis of Outcomes Based on Goals
 
-![image_name](path/to/image_name.png)
+!Outcomes_vs_Goals.Png
 
 ### Challenges and Difficulties Encountered
 
