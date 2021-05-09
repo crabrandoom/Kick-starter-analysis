@@ -15,7 +15,7 @@ The purpose of this analysis is to take a closer look at the individual characte
 
 ### Analysis of Outcomes Based on Goals
 
-!Outcomes_vs_Goals.Png(Kick-starter-analysis/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals.Png](Kick-starter-analysis/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
