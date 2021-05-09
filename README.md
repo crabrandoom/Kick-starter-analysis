@@ -9,6 +9,8 @@ The purpose of this analysis is to take a closer look at the individual characte
 
 ## Analysis and Challenges
 
+Two main comparisons of data were made for the analysis: Outcomes based on Launch Date and Outcomes based on Goals. The launch month of each campaign was compared to its success rate in order to uncover cyclical trends within the months. The fundraising goal of each campaign was also compared to its success rate in order to determine the effect, if any, of the goal amounts.
+
 ### Analysis of Outcomes Based on Launch Date
 
 ![Theater_Outcomes_vs_Launch.Png](https://github.com/crabrandoom/Kick-starter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
